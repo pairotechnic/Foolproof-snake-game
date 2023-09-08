@@ -13,3 +13,5 @@ Well have I got some good news for you!
 This snake follows a fixed Hamiltonian path, passing through each and every point on the screen, ensuring it always eats the food and never runs into anything. This snake will grow until it's the size of the screen.
 
 Truly a foolproof snake game. So sit back, relax, and watch the snake that starts out small, gradually get bigger!
+
+Remember : You can always play the manual version by changing "automated_script.js" to "script.js" in the index.html file
